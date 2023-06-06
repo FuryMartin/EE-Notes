@@ -9,4 +9,4 @@
 5. [复用与多址技术](./%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86/%E5%85%AB%E3%80%81%E5%A4%8D%E7%94%A8%E4%B8%8E%E5%A4%9A%E5%9D%80%E6%8A%80%E6%9C%AF.md)
 
 ## 致谢
-列出的部分笔记来自 [凉宫秋月的文艺部](https://suzumiyaakizuki.github.io/)，感谢 @SuzumiyaAkizuki 的文章
+列出的部分笔记来自 [凉宫秋月的文艺部](https://suzumiyaakizuki.github.io/)，感谢 [@SuzumiyaAkizuki](https://github.com/SuzumiyaAkizuki) 的文章
